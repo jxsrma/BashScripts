@@ -1,3 +1,4 @@
+#!/bin/bash
 match="Welcome.to.Pune.city"
 echo ${match#*.}
 echo ${match%.*}

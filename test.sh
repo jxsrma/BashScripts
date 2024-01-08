@@ -1,3 +1,4 @@
+#!/bin/bash
 echo "This is a test file"
 sleep 1
 echo "Enter your name:"

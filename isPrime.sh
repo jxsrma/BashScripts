@@ -1,3 +1,4 @@
+#!/bin/bash
 echo -n "Enter Left-End   :   "
 read le
 echo -n "Enter Right-End  :   "

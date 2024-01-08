@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # awk '{print $2}' data
 
 # awk '{print $NF}' data

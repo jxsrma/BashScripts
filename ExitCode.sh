@@ -1,3 +1,4 @@
+#!/bin/bash
 read x
 if [ $x -ne 10 ]
 then

@@ -1,3 +1,4 @@
+#!/bin/bash
 echo "Enter Number 1 : "
 read a
 echo "Enter Number 2 : "

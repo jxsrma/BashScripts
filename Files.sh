@@ -1,3 +1,4 @@
+#!/bin/bash
 read -p "Enter File Name: " filename
 while read line
 do

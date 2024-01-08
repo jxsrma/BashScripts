@@ -1,4 +1,4 @@
-
+#!/bin/bash
 arr=("John" "Shown" "Mike" "1" "Andrew" "2")
 
 

@@ -1,3 +1,4 @@
+#!/bin/bash
 str="Welcome to Pune City"
 
 echo ${str:-100}

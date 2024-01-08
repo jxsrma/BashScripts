@@ -1,3 +1,4 @@
+#!/bin/bash
 str1='Welcome'
 str2="to"
 str3=Pune

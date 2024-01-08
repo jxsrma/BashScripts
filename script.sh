@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # This is a comment
 # echo This is my First shell script
 # touch TestFile

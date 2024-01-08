@@ -1,3 +1,4 @@
+#!/bin/bash
 Cars="bmw"
 
 case "$Cars" in

@@ -1,3 +1,4 @@
+#!/bin/bash
 echo "Enter File Name"
 read fileName
 if [ ! -e "$fileName" ]; then
